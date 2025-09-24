@@ -7,6 +7,7 @@
 
 import SwiftUI
 import SwiftData
+
 @main
 struct BirthdaysApp: App {
     var body: some Scene {
