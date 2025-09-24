@@ -7,6 +7,7 @@
 
 import SwiftUI
 import SwiftData
+>>>>>>> origin/dataModel
 
 @main
 struct BirthdaysApp: App {
